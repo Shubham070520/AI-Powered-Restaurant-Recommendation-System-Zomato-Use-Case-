@@ -105,3 +105,7 @@ docs/
 - [Implementation plan](docs/implementation-plan.md)
 - [Edge cases](docs/edgecase.md)
 - [Evaluation](docs/eval.md)
+
+## Deployment 
+
+Link - https://fqrdbum94anczzxc99p5kv.streamlit.app/
