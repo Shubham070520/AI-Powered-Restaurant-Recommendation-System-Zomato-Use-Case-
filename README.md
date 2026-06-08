@@ -105,7 +105,3 @@ docs/
 - [Implementation plan](docs/implementation-plan.md)
 - [Edge cases](docs/edgecase.md)
 - [Evaluation](docs/eval.md)
-
-## License
-
-See repository license (add if applicable).
