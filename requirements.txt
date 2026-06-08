@@ -1,0 +1,18 @@
+# Data
+datasets>=2.18.0
+pandas>=2.2.0
+pyarrow>=15.0.0
+
+# Config & models
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+python-dotenv>=1.0.0
+
+# UI (v1: Streamlit)
+streamlit>=1.32.0
+
+# LLM
+openai>=1.14.0
+
+# Dev / test
+pytest>=8.0.0

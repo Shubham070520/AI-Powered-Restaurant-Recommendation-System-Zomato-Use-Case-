@@ -1,0 +1,15 @@
+{
+  "summary": "Two strong Italian options in Bangalore within a medium budget.",
+  "recommendations": [
+    {
+      "restaurant_id": "r_1",
+      "rank": 1,
+      "explanation": "Matches Italian cuisine with a 4.5 rating above your 4.0 minimum."
+    },
+    {
+      "restaurant_id": "r_2",
+      "rank": 2,
+      "explanation": "Italian and Continental; medium budget at 1200 INR for two."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+```json
+{
+  "summary": "Fenced JSON response.",
+  "recommendations": [
+    {
+      "restaurant_id": "r_1",
+      "rank": 1,
+      "explanation": "Top pick from fenced output."
+    }
+  ]
+}
+```
